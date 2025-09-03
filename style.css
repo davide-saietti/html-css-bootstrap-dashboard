@@ -1,3 +1,7 @@
 img{
    width: 4rem;
 }
+
+tbody td{
+   align-content: center;
+}
